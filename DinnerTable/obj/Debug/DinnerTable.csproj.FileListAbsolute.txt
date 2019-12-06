@@ -1,0 +1,13 @@
+C:\Users\David.Krummen\source\repos\DinnerTable\DinnerTable\bin\Debug\DinnerTable.exe.config
+C:\Users\David.Krummen\source\repos\DinnerTable\DinnerTable\bin\Debug\DinnerTable.exe
+C:\Users\David.Krummen\source\repos\DinnerTable\DinnerTable\bin\Debug\DinnerTable.pdb
+C:\Users\David.Krummen\source\repos\DinnerTable\DinnerTable\obj\Debug\DinnerTable.csprojAssemblyReference.cache
+C:\Users\David.Krummen\source\repos\DinnerTable\DinnerTable\obj\Debug\DinnerTable.csproj.CoreCompileInputs.cache
+C:\Users\David.Krummen\source\repos\DinnerTable\DinnerTable\obj\Debug\DinnerTable.exe
+C:\Users\David.Krummen\source\repos\DinnerTable\DinnerTable\obj\Debug\DinnerTable.pdb
+C:\Users\david.krummen\Documents\Projects\Bootcamp\repos\DinnerTable\DinnerTable\bin\Debug\DinnerTable.exe.config
+C:\Users\david.krummen\Documents\Projects\Bootcamp\repos\DinnerTable\DinnerTable\bin\Debug\DinnerTable.exe
+C:\Users\david.krummen\Documents\Projects\Bootcamp\repos\DinnerTable\DinnerTable\bin\Debug\DinnerTable.pdb
+C:\Users\david.krummen\Documents\Projects\Bootcamp\repos\DinnerTable\DinnerTable\obj\Debug\DinnerTable.csprojAssemblyReference.cache
+C:\Users\david.krummen\Documents\Projects\Bootcamp\repos\DinnerTable\DinnerTable\obj\Debug\DinnerTable.exe
+C:\Users\david.krummen\Documents\Projects\Bootcamp\repos\DinnerTable\DinnerTable\obj\Debug\DinnerTable.pdb
